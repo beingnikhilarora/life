@@ -13,7 +13,7 @@ tasks:
   priority: 2
 - id: 3
   name: Task 3
-  status: open
+  status: closed
   reward: Movie
   points: 10
   priority: 1
