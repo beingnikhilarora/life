@@ -1,12 +1,20 @@
 tasks:
-- name: Task 1
+- id: 1
+  name: Task 1
   status: open
   reward: Trip
   points: 5
   priority: 1
-- name: Task 2
+- id: 2
+  name: Task 2
   status: closed
   reward: Drinks
   points: 10
   priority: 2
+- id: 3
+  name: Task 3
+  status: open
+  reward: Movie
+  points: 10
+  priority: 1
   
